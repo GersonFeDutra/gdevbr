@@ -9,7 +9,7 @@ Trabalho de Introdução à Ciência da Computação.
 
 ### Conteúdo
 
-<a href="Desenvolvimento de jogos digitais.pdf" target="_blank"><img src="presentation_screenshot.png"></a>
+<a href="https://gersonfedutra.github.io/gdevbr/Desenvolvimento%20de%20jogos%20digitais.pdf" target="_blank"><img src="presentation_screenshot.png"></a>
 
 ## Referências
 
