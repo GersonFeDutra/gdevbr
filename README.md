@@ -114,6 +114,16 @@ Trabalho de Introdução à Ciência da Computação.
 
 [Ren'Py](https://www.renpy.org/)
 
+[Godot](https://godotengine.org)
+
+[Clickteam](https://www.clickteam.com/)
+
+[Construct 3](https://www.construct.net/)
+
+[GameMaker | YoYo Games](https://www.yoyogames.com/gamemaker)
+
+[RPG Maker](https://www.rpgmakerweb.com/)
+
 ##### Godot
 
 [Documentação](https://docs.godotengine.org/en/stable/)
@@ -191,9 +201,30 @@ Trabalho de Introdução à Ciência da Computação.
 
 [GMTK Game Jam (resultados de 2020)](https://itch.io/jam/gmtk-2020/results)
 
-[Amdré Young - Youtube (produtor da Game Jaaj)](https://www.youtube.com/channel/UCv29ytb-v_Ph6QZOypGFyEw)
+[Amdré Young - Youtube (produtor da Game Jaaj)](https://www.youtube.com/channel/UCv29ytb-v_Ph6QZOypGFyEw) | [Game Jaaj (#3)](https://jams.gamejolt.io/gamejaaj3#)
 
 [Jogos da Game Jaaj 4](http://jams.gamejolt.io/gamejaaj4/games#!)
+
+[Godot Wild Jam](https://godotwildjam.com/)
+
+[Game Jam Plus](https://gamejamplus.com/)
+
+[Indie Game Jams](http://www.indiegamejams.com/)
+
+[Itch.io Jams](https://itch.io/jams)
+
+[Game Jolt Jams](http://jams.gamejolt.com/browse/future)
+
+### Stores
+[Itch.io](https://itch.io/)
+
+[Steam](https://store.steampowered.com/)
+
+[GOG](https://www.gog.com/)
+
+[Epic Games Store](https://www.epicgames.com/store/pt-BR/)
+
+[Game Jolt - Indie games for the love of it](https://gamejolt.com/)
 
 ### Artigos
 
@@ -206,6 +237,30 @@ Trabalho de Introdução à Ciência da Computação.
 [Everithing you need to know about AAA game development costs](https://www.juegostudio.com/blog/everything-you-need-to-know-about-aaa-game-development-costs)
 
 [Gamasutra: Adrian Rusu's Blog - Indie Games Scene - 2017 Overview](https://www.gamasutra.com/blogs/AdrianRusu/20170404/294995/Indie_Games_Scene__2017_Overview.php)
+
+### Sites
+
+[Site sobre Desenvolvimento de Jogos Digitais - Fábrica de Jogos](https://www.fabricadejogos.net/)
+
+[Game Developer](https://gamedeveloper.com.br/)
+
+[David de Oliveira Lemes - Professor | Consultor](https://www.dolemes.com/)
+
+[Crie Seus Jogos - O seu portal sobre desenvolvimento de jogos!](https://www.crieseusjogos.com.br/)
+
+[Abragames - Associação Brasileira das Empresas Desenvolvedoras de Jogos Digitais](http://www.abragames.org/)
+
+[Ludificador](http://www.ludificador.com.br/)
+
+[Kotaku | Gaming Reviews, News, Tips and More.](https://kotaku.com/)
+
+#### Wikis
+
+[Desenvolvimento de jogos - Desenvolvimento de Jogos](http://desenvolvimentodejogos.wikidot.com/)
+
+##### Fóruns
+
+[GameDev Brasil](https://www.gamedev.com.br/forum/)
 
 ### YouTube
 
