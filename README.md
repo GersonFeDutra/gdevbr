@@ -205,9 +205,74 @@ Trabalho de Introdução à Ciência da Computação.
 
 [Everithing you need to know about AAA game development costs](https://www.juegostudio.com/blog/everything-you-need-to-know-about-aaa-game-development-costs)
 
-### Canais do YouTube
+[Gamasutra: Adrian Rusu's Blog - Indie Games Scene - 2017 Overview](https://www.gamasutra.com/blogs/AdrianRusu/20170404/294995/Indie_Games_Scene__2017_Overview.php)
+
+### YouTube
+
+#### Canais
 
 [Dani](https://www.youtube.com/c/DaniDev/featured)
+[Video: He said I Couldn't Make a 3D Game... So I Made One!](https://youtu.be/rb0EhmyQ0aM)
 
 [Ask GameDev](https://www.youtube.com/channel/UCd_lJ4zSp9wZDNyeKCWUstg)
 [Vídeo: The 6 Roles That You Need to Build a Great Indie Dev Team](https://youtu.be/-EJP-I30iWY)
+
+[Game Maker's Toolkit](https://www.youtube.com/user/McBacon1337)
+
+[Riot Games](https://www.youtube.com/channel/UCJEGvSZnQ1pkVfHO8s5G8hA)
+
+[GDQuest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)
+
+[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
+
+[Kotaku](https://www.youtube.com/channel/UCVS9tA3PI8Gard_LrTx0YsQ)
+
+[GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
+
+[Gamefromscratch](https://www.youtube.com/channel/UCr-5TdGkKszdbboXXsFZJTQ)
+
+[FOSDEM](https://www.youtube.com/channel/UC9NuJImUbaSNKiwF2bdSfAw)
+
+[Código Fonte TV](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
+
+[365indies](https://www.youtube.com/channel/UCi9f3QOmFgqFCSuG1IGclqw)
+
+[IGN](https://www.youtube.com/user/IGNentertainment) | [IGN Brasil](https://www.youtube.com/channel/UCfg4PAgKIurlvYJRhhukv_g)
+
+[Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
+
+[Botão Select](https://www.youtube.com/channel/UCseB9OWWJSnlabGj2WPp0uQ)
+
+[Gemaplys](https://www.youtube.com/channel/UC1pAUT1bL7fV9VBp3A6F8FQ) [Entrevista - Victor Schiavon (GEMAPLYS) - Super Chicken Jumper](https://youtu.be/w-eswU42y88?list=PLiOozRWhHK7EXiB-ZCb0fP3WYOWYOiDsV)
+
+[André Young](https://www.youtube.com/playlist?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc)
+
+[Uniday Studio](https://www.youtube.com/channel/UCntWQfGQ_KN4ABafiwSiuGA)
+
+[Raphael Dias - Produção de Jogos - YouTube](https://www.youtube.com/channel/UC31_lzgVcbcBOLo5QD7QBUA)
+
+[Proxy GameDev](https://www.youtube.com/c/ProxyGameDev/featured)
+
+[GameDev Galáctico](https://www.youtube.com/c/OGuiadoGameDevdasGal%C3%A1xias/featured)
+
+[Crie Seus Jogos](https://www.youtube.com/c/CrieSeusJogos/featured)
+
+[FullBr](https://www.youtube.com/channel/UCeQ3dzlZAAyIGn1Ki4YsPxg)
+
+#### Vídeos
+
+[Why Nobody Becomes a Video Game Developer but Everyone Wants to](https://youtu.be/0ixsAavbBpU)
+
+[Map of Computer Science](https://youtu.be/SzJ46YA_RaA)
+
+[How Long Does It Take To Make A Video Game?](https://youtu.be/68HMN5hliUI)
+
+[Quanto ganha um desenvolvedor de jogos no Brasil?](https://youtu.be/jwDEFgxMJok)
+
+[Made in Brazil: A Game Development Snapshot](https://youtu.be/0KPEywfMurI)
+
+[Dandara: Desenvolvimento, Jogos Mobile e Indie no Brasil | em foco](https://youtu.be/RorKdPVQer0)
+
+[So You Wanna Make Games?? | Episode 1: Intro to Game Art](https://youtu.be/RqRoXLLwJ8g?list=PL42m9XiTqPHJdJuVXO6Vf5ta5D07peiVx)
+
+[History of Game Jams](https://youtu.be/hRITKKY2grs)
