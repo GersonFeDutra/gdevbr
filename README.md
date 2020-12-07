@@ -262,6 +262,18 @@ Trabalho de Introdução à Ciência da Computação.
 
 [GameDev Brasil](https://www.gamedev.com.br/forum/)
 
+#### Discord
+
+[Breace Lab](https://discord.gg/CBatTxa)
+
+[Vaca Roxa](https://discord.gg/vacaroxa)
+
+[Game Jaaj](https://discord.gg/KPnNQ7XhWD)
+
+[GDQuest](https://discord.gg/9SwX5tEJt5)
+
+[Godot Brasil](https://discord.gg/kVVpeSNMCu)
+
 #### Notícias & Pesquisas
 
 [Mercado de games no Brasil deve crescer 5,3% até 2022, diz estudo](https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2019/08/05/mercado-de-games-no-brasil-deve-crescer-53percent-ate-2022-diz-estudo.ghtml)
@@ -342,6 +354,26 @@ Trabalho de Introdução à Ciência da Computação.
 
 [Dandara: Desenvolvimento, Jogos Mobile e Indie no Brasil | em foco](https://youtu.be/RorKdPVQer0)
 
+[SURREALIDADE Expressões do Inconsciente #1 - BEM VINDO A SUA MENTE](https://youtu.be/YD1sAkKDbdE)
+
 [So You Wanna Make Games?? | Episode 1: Intro to Game Art](https://youtu.be/RqRoXLLwJ8g?list=PL42m9XiTqPHJdJuVXO6Vf5ta5D07peiVx)
 
+[A little game made with Python and Pygame](https://youtu.be/aUCyfdzP-i8)
+
+[Learning Pico-8 In One Day](https://youtu.be/2DjggycZXSg)
+
 [History of Game Jams](https://youtu.be/hRITKKY2grs)
+
+[My Game Dev Journey! - What a Ride...](https://youtu.be/kok4qOWhS6U)
+
+[Matéria | Oniken, JoyMasher e o mercado indie de desenvolvimento de games](https://youtu.be/9XK7M_k8U6Y?list=PLXqsFWoy_SXMYGA4kx3pbJv1FtHbubjwa)
+
+[Entendendo as Engines nos Games - GAMEPEDIA EP. 86](https://youtu.be/sDrdPRs6XrA?list=PLnmuq4G4ZmIcA3BEu8__5mOhO61fIFtQ9)
+
+[Juan Linietsky: The State of Godot | GDC 2019, at GitHub HQ](https://youtu.be/C0szslgA8VY)
+
+[The Best Games from GMTK Game Jam 2020](https://youtu.be/RGeAkU2wu4o)
+
+[Os melhores indies do Big Festival 2018](https://youtu.be/PM5fRgDiQhY)
+
+[How to Survive in Gamedev for Eleven Years Without a Hit](https://youtu.be/JmwbYl6f11c)
