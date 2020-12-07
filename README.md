@@ -121,7 +121,7 @@ Trabalho de Introdução à Ciência da Computação.
 
 [Construct 3](https://www.construct.net/)
 
-[GameMaker | YoYo Games](https://www.yoyogames.com/gamemaker)
+[GameMaker - YoYo Games](https://www.yoyogames.com/gamemaker)
 
 [RPG Maker](https://www.rpgmakerweb.com/)
 
@@ -319,7 +319,7 @@ Trabalho de Introdução à Ciência da Computação.
 
 [365indies](https://www.youtube.com/channel/UCi9f3QOmFgqFCSuG1IGclqw)
 
-[IGN](https://www.youtube.com/user/IGNentertainment) | [IGN Brasil](https://www.youtube.com/channel/UCfg4PAgKIurlvYJRhhukv_g)
+[IGN](https://www.youtube.com/user/IGNentertainment) / [IGN Brasil](https://www.youtube.com/channel/UCfg4PAgKIurlvYJRhhukv_g)
 
 [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
 
@@ -353,11 +353,11 @@ Trabalho de Introdução à Ciência da Computação.
 
 [Made in Brazil: A Game Development Snapshot](https://youtu.be/0KPEywfMurI)
 
-[Dandara: Desenvolvimento, Jogos Mobile e Indie no Brasil | em foco](https://youtu.be/RorKdPVQer0)
+[Dandara: Desenvolvimento, Jogos Mobile e Indie no Brasil - em foco](https://youtu.be/RorKdPVQer0)
 
 [SURREALIDADE Expressões do Inconsciente #1 - BEM VINDO A SUA MENTE](https://youtu.be/YD1sAkKDbdE)
 
-[So You Wanna Make Games?? | Episode 1: Intro to Game Art](https://youtu.be/RqRoXLLwJ8g?list=PL42m9XiTqPHJdJuVXO6Vf5ta5D07peiVx)
+[So You Wanna Make Games?? - Episode 1: Intro to Game Art](https://youtu.be/RqRoXLLwJ8g?list=PL42m9XiTqPHJdJuVXO6Vf5ta5D07peiVx)
 
 [A little game made with Python and Pygame](https://youtu.be/aUCyfdzP-i8)
 
@@ -367,11 +367,11 @@ Trabalho de Introdução à Ciência da Computação.
 
 [My Game Dev Journey! - What a Ride...](https://youtu.be/kok4qOWhS6U)
 
-[Matéria | Oniken, JoyMasher e o mercado indie de desenvolvimento de games](https://youtu.be/9XK7M_k8U6Y?list=PLXqsFWoy_SXMYGA4kx3pbJv1FtHbubjwa)
+[Matéria - Oniken, JoyMasher e o mercado indie de desenvolvimento de games](https://youtu.be/9XK7M_k8U6Y?list=PLXqsFWoy_SXMYGA4kx3pbJv1FtHbubjwa)
 
 [Entendendo as Engines nos Games - GAMEPEDIA EP. 86](https://youtu.be/sDrdPRs6XrA?list=PLnmuq4G4ZmIcA3BEu8__5mOhO61fIFtQ9)
 
-[Juan Linietsky: The State of Godot | GDC 2019, at GitHub HQ](https://youtu.be/C0szslgA8VY)
+[Juan Linietsky: The State of Godot - GDC 2019, at GitHub HQ](https://youtu.be/C0szslgA8VY)
 
 [The Best Games from GMTK Game Jam 2020](https://youtu.be/RGeAkU2wu4o)
 
