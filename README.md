@@ -6,6 +6,7 @@ Trabalho de Introdução à Ciência da Computação.
 
 ### Vídeo
 
+[Link para o vídeo de apresentação - Youtube](https://youtu.be/pM4UX65nPu8)
 
 ### Conteúdo
 
