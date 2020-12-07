@@ -258,9 +258,23 @@ Trabalho de Introdução à Ciência da Computação.
 
 [Desenvolvimento de jogos - Desenvolvimento de Jogos](http://desenvolvimentodejogos.wikidot.com/)
 
-##### Fóruns
+#### Fóruns
 
 [GameDev Brasil](https://www.gamedev.com.br/forum/)
+
+#### Notícias & Pesquisas
+
+[Mercado de games no Brasil deve crescer 5,3% até 2022, diz estudo](https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2019/08/05/mercado-de-games-no-brasil-deve-crescer-53percent-ate-2022-diz-estudo.ghtml)
+
+### Podcasts
+
+[PodQuest](http://www.podquest.com.br/)
+
+[GGDevCast](https://ggdevcast.com.br/)
+
+[Arquivos MeiaLuaCast](https://www.deviante.com.br/podcasts/meialua/)
+
+[Construindo Mundos (jogabilidade)](https://open.spotify.com/playlist/2lBfrwJ34ehSYtPuMElkPS?si=BsVZIDpERaCOxHZ5GvMWyg)
 
 ### YouTube
 
