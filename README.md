@@ -202,7 +202,7 @@ Trabalho de Introdução à Ciência da Computação.
 
 [GMTK Game Jam (resultados de 2020)](https://itch.io/jam/gmtk-2020/results)
 
-[Amdré Young - Youtube (produtor da Game Jaaj)](https://www.youtube.com/channel/UCv29ytb-v_Ph6QZOypGFyEw) | [Game Jaaj (#3)](https://jams.gamejolt.io/gamejaaj3#)
+[Amdré Young - Youtube (produtor da Game Jaaj)](https://www.youtube.com/channel/UCv29ytb-v_Ph6QZOypGFyEw) / [Game Jaaj (#3)](https://jams.gamejolt.io/gamejaaj3#)
 
 [Jogos da Game Jaaj 4](http://jams.gamejolt.io/gamejaaj4/games#!)
 
@@ -245,7 +245,7 @@ Trabalho de Introdução à Ciência da Computação.
 
 [Game Developer](https://gamedeveloper.com.br/)
 
-[David de Oliveira Lemes - Professor | Consultor](https://www.dolemes.com/)
+[David de Oliveira Lemes - Professor / Consultor](https://www.dolemes.com/)
 
 [Crie Seus Jogos - O seu portal sobre desenvolvimento de jogos!](https://www.crieseusjogos.com.br/)
 
@@ -253,7 +253,7 @@ Trabalho de Introdução à Ciência da Computação.
 
 [Ludificador](http://www.ludificador.com.br/)
 
-[Kotaku | Gaming Reviews, News, Tips and More.](https://kotaku.com/)
+[Kotaku / Gaming Reviews, News, Tips and More.](https://kotaku.com/)
 
 #### Wikis
 
